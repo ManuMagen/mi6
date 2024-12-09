@@ -1,4 +1,4 @@
-<?php include("php/banner.php"); ?>
+<?php include "php/banner.php"; ?>
 
 <section class="blog-posts">
       <div class="container">
